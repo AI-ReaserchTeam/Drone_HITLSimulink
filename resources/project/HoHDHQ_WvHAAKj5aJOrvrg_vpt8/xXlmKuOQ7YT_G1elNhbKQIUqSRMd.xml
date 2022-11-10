@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info description="This Simulink Project contains Simulink models for UAV Dynamics and PX4 Controller to be run in Hardware-In-The-Loop (HITL) simulation mode with PX4 Autopilot"/>
